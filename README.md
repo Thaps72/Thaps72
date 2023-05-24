@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thaps72
 - 👀 I’m interested in Front - End Dev
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Front End Dev projects
 - 📫 How to reach me -thapelo.umuziphotoclub@gmail.com
 
